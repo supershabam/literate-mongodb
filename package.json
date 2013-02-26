@@ -1,0 +1,20 @@
+{
+  "name": "literate-mongodb",
+  "version": "0.0.0",
+  "description": "MongoDB driver written in literate coffeescript because code is for humans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/supershabam/literate-mongodb"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "Ian Hansen",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "c5fb2324cb22ea7d6d17d9c3a6fcc4f170135045"
+}
